@@ -1,1 +1,0 @@
-# Banana-Leaf-Disease-Prediction
